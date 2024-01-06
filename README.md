@@ -1,1 +1,1 @@
-# Html-CSS-and-javascript-Practice-Repo
+Mini Projects
